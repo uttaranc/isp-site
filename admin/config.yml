@@ -4,7 +4,7 @@ backend:
   branch: main
 media_folder: images/uploads
 public_folder: /images/uploads
-site_url: https://friendly-marzipan-5b3fa2.netlify.app
+site_url: https://ucpublishing.netlify.app
 collections:
 - name: content
   label: Site content
