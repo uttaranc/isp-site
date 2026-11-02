@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/isp-site
+  repo: uttaranc/isp-site
   branch: main
 media_folder: images/uploads
 public_folder: /images/uploads
