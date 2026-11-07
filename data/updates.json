@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "title": "Everyone Sells the Same AI: final files and the Appendix H source list",
+      "date": "2026-11-07",
+      "type": "Production",
+      "book": "everyone-sells-the-same-ai",
+      "body": "The print and Kindle files for Everyone Sells the Same AI are now final. This edition adds Appendix H, a worked eligibility comparison: one documented test, drafting a credit memo from confidential borrower material, run across eight named cloud, model and infrastructure providers using only their published documents.\n\nThe printed appendix lists the key sources. The full list, with short quoted excerpts, the pages that could not be read and the dates to watch, is at writandledgerbooks.netlify.app/appendix-h. It is updated when a cited page changes."
+    },
+    {
       "title": "Everyone Sells the Same AI enters final interior review",
       "date": "2026-11-01",
       "type": "Production",
@@ -26,13 +33,6 @@
       "type": "News",
       "book": "everyone-sells-the-same-ai",
       "body": "This page records material changes to the facts in Everyone Sells the Same AI, and any corrections, after publication. The address is printed in the book.\n\nEntries are dated and append-only. Nothing already posted is quietly rewritten. Each entry names what changed, the chapter or appendix it affects, and the first-party source: a provider's own documentation, a regulator's own text or a primary filing, cited by name and date. Where a point could not be verified, the entry says so.\n\nAuthor independence. The author works at Amazon Web Services. The book is an independent publication of Writ & Ledger Books. It is not an AWS product and is not endorsed by any vendor. Every entry here holds every provider, AWS included, to the same test.\n\nThis page is reviewed quarterly."
-    },
-    {
-      "title": "Everyone Sells the Same AI is now available on Kindle",
-      "date": "2026-11-03",
-      "type": "Release",
-      "book": "everyone-sells-the-same-ai",
-      "body": "Everyone Sells the Same AI: How Capital Markets and Private Equity Tell the Difference is now available on Kindle.\n\nEvery AI vendor can read the filing, draft the memo and answer the question. The book explains why the cost, the rights and the responsibility behind those identical answers rarely match, and gives buyers a way to tell the difference before they commit capital.\n\nIt works layer by layer, from models, deployment and gateways to agents, coding tools, applications and who operates them, then applies the same tests to research and due diligence, the private equity operating model and the capital allocation decision itself. Every choice ends in one of six verdicts: BUY, BUILD, REUSE, COMBINE, DEFER or REJECT. The appendices include a vendor evidence checklist, a total cost of ownership worksheet, an investment scorecard, a one-page investment committee memo and a guide to applying the method outside financial services.\n\nThe cases come from capital markets and private equity. The tests apply to any enterprise buying AI.\n\nThe paperback and hardcover editions will follow. Material changes to the facts in the book, and any corrections, will be recorded on this page.\n\nGet the Kindle edition on Amazon: [https://a.co/d/06vC8zPd]"
     }
   ]
 }

@@ -5,3 +5,8 @@
   for = "/data/*"
   [headers.values]
     Cache-Control = "no-cache"
+
+[[redirects]]
+  from = "/appendix-h"
+  to = "/everyone-sells-the-same-ai/appendix-h.html"
+  status = 301
